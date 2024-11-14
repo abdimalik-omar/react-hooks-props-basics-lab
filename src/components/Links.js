@@ -9,4 +9,4 @@ export default function Links(props){
          <a href = {props.linkedin}>{props.linkedin}</a>
         </>
     )
-}
+};

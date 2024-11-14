@@ -10,6 +10,6 @@ function About(props) {
       <Links github = {props.github} linkedin = {props.linkedin}/>
     </div>
   );
-}
+};
 
 export default About;

@@ -16,6 +16,6 @@ function App() {
       <About bio = {user.bio}  github = {user.links.github} linkedin = {user.links.linkedin} />
     </div>
   );
-}
+};
 
 export default App;
